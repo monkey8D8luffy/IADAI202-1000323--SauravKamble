@@ -17,7 +17,6 @@
 | **Assessment Title** | Summative Assessment — Developing User-Centered Dashboards to Solve Real-World Problems | 
 | **Scenario** | Scenario 1: FootLens Analytics — Player Injuries and Team Performance Dashboard | 
 | **School Name** | Ryan Global School | 
-| **Evaluator Access Granted** | `ai.assignments@wacpinternational.org` | 
 
 ## 📌 1. Project Overview & Domain Context
 
