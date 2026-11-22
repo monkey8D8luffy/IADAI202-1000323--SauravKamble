@@ -41,41 +41,40 @@ In elite professional football, player availability directly governs tactical co
 
 ### 1. Executive KPI Strip & Tab 1 — Club & Tactical Impact
 *Displays the 6 live KPI cards (`656` spells, `25`-day median absence, `+0.10` Team GD Drop Index, `1.40` PPG during absence, `22.3%` 60-day relapse rate, `-0.01` post-return form), Top 10 High-Impact Injuries, and Club PPG Resilience.*
+<img width="1280" height="735" alt="Screenshot 2026-11-22 140131" src="https://github.com/user-attachments/assets/f48084e7-8972-420b-8272-9be9904f71ac" />
 
-(<img width="1280" height="735" alt="Screenshot 2026-11-22 140131" src="https://github.com/user-attachments/assets/f48084e7-8972-420b-8272-9be9904f71ac" />
-)
 
 ---
 
 ### 2. Tab 2 — Sports Science & Relapse Lab
 *Compares Return-to-Play protocols (`20.0%` 60-day relapse rate with Gradual Sub Reintegration `(S)` vs. `27.2%` with Immediate Full Start) alongside Biomechanical Injury Burden across medical categories.*
 
-(<img width="1280" height="734" alt="Screenshot 2026-11-22 140204" src="https://github.com/user-attachments/assets/de8ef81d-83b1-47d5-bca3-a942f1de1b42" />
-)
+<img width="1280" height="734" alt="Screenshot 2026-11-22 140204" src="https://github.com/user-attachments/assets/de8ef81d-83b1-47d5-bca3-a942f1de1b42" />
+
 
 ---
 
 ### 3. Tab 3 — Congestion & Positional Matrix
 *Maps injury frequency clusters across calendar months and clubs (`December–February` winter fixture congestion), positional Goal Difference vulnerability, and multi-season injury volume vs. severity trends.*
 
-(<img width="1280" height="735" alt="Screenshot 2026-11-22 140235" src="https://github.com/user-attachments/assets/779a5a14-2738-40c8-9c08-ffe731307960" />
-)
+<img width="1280" height="735" alt="Screenshot 2026-11-22 140235" src="https://github.com/user-attachments/assets/779a5a14-2738-40c8-9c08-ffe731307960" />
+
 
 ---
 
 ### 4. Tab 4 — Player Scouting & Comeback Lab
 *Tracks individual match-rating trajectories (`Match -3` to `Match +3`) for Richarlison against the squad benchmark, visualizes Everton's 9-match Goal Difference arc, and ranks top comeback performers.*
 
-(<img width="1280" height="734" alt="Screenshot 2026-11-22 140615" src="https://github.com/user-attachments/assets/25945a36-2c3b-415b-9a4e-c138cfb308ef" />
-)
+<img width="1280" height="734" alt="Screenshot 2026-11-22 140615" src="https://github.com/user-attachments/assets/25945a36-2c3b-415b-9a4e-c138cfb308ef" />
+
 
 ---
 
 ### 5. Tab 5 — Grounded AI Data Analyst Chat (`openai/gpt-oss-20b`)
 *Demonstrates live natural-language Q&A comparing Brentford (`34` spells, `+0.62` GD drop) and Manchester United (`101` spells, `+0.08` GD drop) grounded strictly in filtered dataset telemetry.*
 
-(<img width="1280" height="732" alt="Screenshot 2026-11-22 140312" src="https://github.com/user-attachments/assets/9d6be90d-89de-418e-acc5-a6cd485cb05b" />
-)
+<img width="1280" height="732" alt="Screenshot 2026-11-22 140312" src="https://github.com/user-attachments/assets/9d6be90d-89de-418e-acc5-a6cd485cb05b" />
+
 
 ## 🔍 3. Research Questions & Verified Statistical Findings
 
