@@ -26,7 +26,7 @@
 | **Assessment Title** | Summative Assessment — Developing User-Centered Dashboards to Solve Real-World Problems |
 | **Scenario** | Scenario 1: FootLens Analytics — Player Injuries and Team Performance Dashboard |
 | **School Name** | Ryan Global School |
-| **Evaluator Access Granted** | `ai.assignments@wacpinternational.org` |
+
 
 ---
 
@@ -51,11 +51,15 @@ In elite professional football, player availability directly governs tactical co
 
 | Tactical Impact & Executive KPIs | Sports Science & Relapse Lab |
 | :---: | :---: |
-| ![Club & Tactical Impact](assets/tab1_tactical_impact.png) | ![Sports Science & Relapse Lab](assets/tab2_sports_science.png) |
+| ![Club & Tactical Impact](<img width="1280" height="735" alt="image" src="https://github.com/user-attachments/assets/16b784f3-a7b4-43dc-aa03-82c69924da06" />
+) | ![Sports Science & Relapse Lab](<img width="1280" height="734" alt="image" src="https://github.com/user-attachments/assets/3c1de675-1b54-4d2c-a71a-c24100d3b9a0" />
+) |
 
 | Fixture Congestion & Positional Matrix | Player Scouting & Grounded AI Analyst |
 | :---: | :---: |
-| ![Congestion & Positional Matrix](assets/tab3_congestion_matrix.png) | ![Grounded AI Data Analyst](assets/tab5_ai_analyst.png) |
+| ![Congestion & Positional Matrix](<img width="1280" height="735" alt="image" src="https://github.com/user-attachments/assets/5d65a43b-0bb2-491d-9c76-f92dad3cd41c" />
+) | ![Grounded AI Data Analyst](<img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/4a74e093-62da-4697-ac08-8f5eccf74ef5" />
+) |
 
 ---
 
