@@ -40,10 +40,43 @@ st.markdown(
         --purple-border: rgba(168, 85, 247, 0.20);
     }
 
-    /* Pure AMOLED Black Canvas with Subtle Focused Glow */
-    html, body, [data-testid="stAppViewContainer"], .stApp {
+    /* Pure AMOLED Black Canvas & 100% Seamless Header */
+    html, body, [data-testid="stAppViewContainer"], [data-testid="stMain"], .stApp {
         background-color: #000000 !important;
     }
+
+    /* Completely eliminate the top black/grey header bar for a seamless aesthetic */
+    header,
+    header[data-testid="stHeader"],
+    [data-testid="stHeader"],
+    .stAppHeader,
+    [data-testid="stAppViewContainer"] > header {
+        background: transparent !important;
+        background-color: transparent !important;
+        border: none !important;
+        box-shadow: none !important;
+        outline: none !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+    }
+
+    /* Hide Streamlit default decoration stripe, deploy buttons, status widget, and footer */
+    footer,
+    #MainMenu,
+    [data-testid="stDecoration"],
+    [data-testid="stDeployButton"],
+    [data-testid="stStatusWidget"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0 !important;
+    }
+
+    /* Make top-right toolbar completely transparent & seamless */
+    [data-testid="stToolbar"] {
+        background: transparent !important;
+        background-color: transparent !important;
+    }
+
     .stApp {
         background:
             radial-gradient(35vw 25vh at 5% 0%, rgba(255, 255, 255, 0.04), transparent 70%),
@@ -55,9 +88,9 @@ st.markdown(
         -webkit-font-smoothing: antialiased;
     }
 
-    /* Fill viewport width naturally without cramped layout */
+    /* Fill viewport width naturally without cramped layout - seamless spacing */
     .block-container {
-        padding-top: 1rem !important;
+        padding-top: 1.5rem !important;
         padding-bottom: 2.5rem !important;
         padding-left: 2rem !important;
         padding-right: 2rem !important;
